@@ -8,7 +8,7 @@ import { CarouselModule } from 'primeng/carousel';
 @Component({
   selector: 'app-toolbar',
   standalone: true,
-  imports: [AvatarModule,ButtonModule,ToolbarModule],
+  imports: [AvatarModule, AvatarGroupModule, ButtonModule, CarouselModule, ToolbarModule],
   templateUrl: './toolbar.component.html',
   styleUrl: './toolbar.component.css'
 })
