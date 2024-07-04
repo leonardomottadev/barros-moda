@@ -40,35 +40,35 @@ export class CarouselComponent {
     this.products = [
       {
         id: 1,
-        name: 'Relógio Moderno',
+        name: 'Relógio Clássico',
         price: 150,
         image: 'bamboo-watch.jpg',
         inventoryStatus: 'INSTOCK'
       },
       {
         id: 2,
-        name: 'Relógio Minimalista',
-        price: 130,
+        name: 'Relógio Moderno Minimalista',
+        price: 131,
         image: 'black-watch.jpg',
         inventoryStatus: 'LOWSTOCK'
       },
       {
         id: 3,
-        name: 'Camisa Casual',
-        price: 13,
+        name: 'Camisa Azul Casual',
+        price: 30,
         image: 'blue-t-shirt.jpg',
         inventoryStatus: 'INSTOCK'
       },
       {
         id: 4,
         name: 'Smart Band',
-        price: 71,
+        price: 72,
         image: 'blue-band.jpg',
         inventoryStatus: 'OUTOFSTOCK'
       },
       {
         id: 5,
-        name: 'Bolsa',
+        name: 'Bolsa de Mão',
         price: 90,
         image: 'brown-purse.jpg',
         inventoryStatus: 'OUTOFSTOCK'

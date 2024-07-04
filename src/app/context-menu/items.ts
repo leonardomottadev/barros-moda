@@ -12,21 +12,21 @@ export interface Product {
 export const data: Product[] = [
     {
         image: 'blue-t-shirt.jpg',
-        name: 'Blue T-Shirt',
+        name: 'Camisa Azul Casual',
         category: 'Clothing',
         price: 29.99
     },
     {
         image: 'black-watch.jpg',
-        name: 'Green T-Shirt',
+        name: 'Relógio Moderno Minimalista',
         category: 'Clothing',
-        price: 24.99
+        price: 130.99
     },
     {
         image: 'blue-band.jpg',
-        name: 'Red T-Shirt',
+        name: 'Smart Band',
         category: 'Clothing',
-        price: 19.99
+        price: 71.99
     },
 ];
 
