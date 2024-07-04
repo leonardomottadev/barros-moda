@@ -1,4 +1,19 @@
 .footer {
-  background-color: rgb(53, 53, 53);
-  height:150px;
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+.footer .social-media a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.footer .social-media a:hover {
+  text-decoration: underline;
 }
